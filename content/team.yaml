@@ -69,6 +69,13 @@ groups:
         initials: "MC"
         email: "mingxin_chu@brown.edu"
         linkedin: "#"
+      - name: "Martin Atilla"
+        role: "Undergraduate Student"
+        specialty: "Analog Code-to-Layout Generation, AI for Chip Design."
+        image: "/images/team/martin_photo.jpg"
+        initials: "MA"
+        email: "#"
+        linkedin: "#"
   - title: "Visiting Scholars"
     members:
       - name: "Juan Sebastian Moya"
